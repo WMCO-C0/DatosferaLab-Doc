@@ -3,43 +3,43 @@
 [DatosferaLab Book](https://wikimediacolombia.gitbook.io/datosferalab/)
 
 
-Este es un espacio común y abierto para el desarrollo de proyectos colaborativos basados en la ciencia de datos con el objetivo de generar información y fomentar el aprendizaje en torno a los datos. Existen multitud de ejemplos de estos laboratorios de datos, pudiendo encontrar varios vinculados a instituciones y entidades educativas
+Este es un espacio común y abierto para el desarrollo de proyectos colaborativos basados en la ciencia de datos con el objetivo de generar información y fomentar el aprendizaje en torno a los datos. Existen multitud de ejemplos de estos laboratorios de datos, pudiendo encontrar varios vinculados a instituciones y entidades educativas.
 
-Es de hecho una práctica común la creación de data labs con el objetivo de aprovechar los datos de la propia institución y generar información valiosa con ellos.&#x20;
+Es de hecho una práctica común la creación de _data labs_ o laboratorios de datos con el objetivo de aprovechar los datos de la propia institución y generar información valiosa con ellos.
 
-Debemos tener claro por ello desde el inicio, si vamos a centrar nuestro data lab en un tema o problema específico o si su enfoque será más abierto.
+Debemos tener claro por ello desde el inicio, si vamos a centrar nuestro _data lab_ en un tema o problema específico o si su enfoque será más abierto.
 
 
 ## [Ciencias De Datos](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/quickstart)
 
 * [**De la sociedad de la información a la del conocimiento**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/quickstart)
 
-* [**El Valor de los Datos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/publish-your-docs)
+* [**El valor de los datos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/publish-your-docs)
 
-* [**Que es la ciencia de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/que-es-la-ciencia-de-datos)
+* [**Que es la ciencia de datos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/que-es-la-ciencia-de-datos)
 
-* [**Los Datos y sus Formatos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/los-datos-y-sus-formatos)
+* [**Los datos y sus formatos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/los-datos-y-sus-formatos)
 
 
-## [Recopilación de Datos](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/editor)
+## [Recopilación de datos](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/editor)
 
 * [**Recogida de datos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/editor)
 
-* [**Solicitud de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/markdown)
+* [**Solicitud de datos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/markdown)
 
-* [**Busqueda de Datis Publicos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/images-and-media)
+* [**Busqueda de datos públicos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/images-and-media)
 
 ## [**Limpieza de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/editor)
 
 
-* [**Introduciión**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/editor)
+* [**Introducción**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/editor)
 
-* [**Importación de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/editor-1)
+* [**Importación de datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/editor-1)
 
-* [**Problemas de los Datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/markdown)
+* [**Problemas de los datos**](https://wikimediacolombia.gitbook.io/datosferalab/limpieza-de-datos/markdown)
 
 
-## [**Analicis de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/editor)
+## [**Analisis de datos**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/editor)
 
 * [**Exploración general de los datos**](https://wikimediacolombia.gitbook.io/datosferalab/analisis-de-datos/editor)
 
@@ -58,7 +58,7 @@ Debemos tener claro por ello desde el inicio, si vamos a centrar nuestro data la
 
 * [**Visualización**](https://wikimediacolombia.gitbook.io/datosferalab/herramientas/editor-1)
 
-* [**Procesamiento de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/herramientas/editor-2)
+* [**Procesamiento de datos**](https://wikimediacolombia.gitbook.io/datosferalab/herramientas/editor-2)
 
 
-# [**Material de Consulta**](https://wikimediacolombia.gitbook.io/datosferalab/material-de-consulta)
+## [Material de consulta](https://wikimediacolombia.gitbook.io/datosferalab/material-de-consulta)
